@@ -1,0 +1,840 @@
+person#person man woman mom parent dad street_person adult
+people#people men women moms parents everyone dads street_people adults
+baseball_player#baseball_player baseballplayer base_ball_player
+baseball_players#baseball_players baseballplayers base_ball_players baseball_team
+tennis_player#tennis_player tennisplayer female_tennis_player woman_tennis_player
+tennis_players#tennis_players tennisplayers female_tennis_players woman_tennis_players
+skier#skier cross_country_skier skiier
+skiers#skiers cross_country_skiers skiiers
+surfer#surfer male_surfer female_surfer
+surfers#surfers male_surfers female_surfers
+skateboarder#skateboarder skater skate_boarder
+skateboarders#skateboarders skaters skate_boarders
+player#
+players#
+snowboarder#snowboarder snow_boarder
+snowboarders#snowboarders snow_boarders
+batter#batter hitter
+batters#batters hitters
+passenger#
+passengers#
+motorcyclist#
+motorcyclists#
+pitcher#
+pitchers#
+rider#
+riders#
+umpire#
+umpires#
+chef#chef cook
+chefs#chefs cooks
+soccer_player#soccer_player soccerplayer
+soccer_players#soccer_players soccerplayers
+worker#worker construction_worker
+workers#workers construction_workers
+spectators#spectators onlookers spectator onlooker audience audiences
+soldier#
+soldiers#
+biker#biker cyclist
+bikers#bikers cyclists
+catcher#
+catchers#
+police#police policeman policewoman cop police_cop police_officer police_man police_woman
+polices#polices policemen policewomen cops police_cops police_officers police_men police_women
+driver#
+drivers#
+student#
+students#
+customer#
+customers#
+speaker#
+speakers#
+photographer#
+photographers#
+cowboy#
+cowboys#
+runner#
+runners#
+ball_player#ball_player ballplayer
+ball_players#ball_players ballplayers
+athlete#
+athletes#
+traveler#
+travelers#
+guest#
+guests#
+vendor#
+vendors#
+trainer#
+trainers#
+farmer#
+farmers#
+hipster#
+hipsters#
+pilot#
+pilots#
+ottoman#
+ottomans#
+opponent#
+opponents#
+fireman#fireman fire_man
+firemen#firemen fire_men
+employee#
+employees#
+baby#baby toddler baby_girl baby_boy infant
+babys#babys toddlers baby_girls baby_boys infants
+kid#kid boy girl child son daughter
+kids#kids boys girls children sons daughters
+teen#teen teenage_boy teenage_girl youth
+teens#teens teenage_boys teenage_girls youths
+dog#puppy dog teddy teddy_bear pug_dog pug
+cat#kitten cat tabby_cat kitty
+horse#pony horse
+giraffe#giraffe adult_giraffe lone_giraffe
+bear#bear_cub bear baby_bear
+elephant#
+zebra#baby_zebra zebra lone_zebra adult_zebra
+bird#bird seagull pigeon parrot owl eagle hawk
+cow#baby_cow cow calf
+animal#cub animal farm_animal pet
+sheep#lamb sheep ram goat antelope gazelle baby_sheep
+cattle#
+duck#
+chicken#
+bull#ox bull
+fish#
+goose#goose swan
+beak#
+monkey#
+donkey#
+deer#
+shrimp#
+ostrich#
+fur#
+feather#
+penguin#
+pig#
+squirrel#
+butterfly#
+rhino#
+lion#
+tiger#
+panda#
+paw#
+leopard#
+alligator#
+hand#hand finger thumb
+body#body bodies
+teeth#
+head#
+mouth#
+face#
+arm#
+hair#
+foot#person_foot foot
+leg#hind_leg leg
+eye#
+neck#
+knee#knee lap
+shoulder#
+ear#
+tongue#
+beard#mustache beard
+nose#
+chest#
+stomach#
+blood#
+tree#banana_tree tree pine_tree field_tree
+flower#rose flower pink_flower tulip sunflower vase_flower
+plant#plant vegetation greenery straw weed foliage
+leaf#
+branch#branch limb twig
+stump#
+stem#
+vine#
+herb#
+bus#commuter_bus bus decker_bus deck_bus
+train#blue_train train silver_train freight_train locomotive steam_train subway_car subway_train train_engine steam_engine
+motorcycle#police_motorcycle motorcycle
+truck#pickup_truck truck delivery_truck dump_truck
+plane#plane airplane airliner jet_airplane jet_airliner passenger_plane jet_plane propeller_plane biplane passenger_airplane propeller_airplane
+car#police_car car taxi automobile suv
+boat#raft boat row_boat fishing_boat kayak rowboat canoe ferry
+bike#bike bicycle moped
+vehicle#
+carriage#carriage cart wagon
+van#
+gear#
+scooter#
+ship#cruise_ship ship
+trailer#
+sailboat#sail_boat sailboat
+crane#
+tank#
+helicopter#
+tractor#tractor_trailer tractor
+buggy#
+trolley#luggage_cart trolley shopping_cart
+wheelchair#wheel_chair wheelchair
+planter#
+side_car#
+jeep#
+motor_boat#
+fire_engine#fire_engine firetruck
+space_shuttle#
+ambulance#
+garbage_truck#
+baby_carriage#baby_carriage stroller strollers
+camper#camper campers
+road#road street highway roadway lane city_road freeway town_street avenue
+way#path way trail dirt_path country_road pathway gravel_road
+tarmac#asphalt tarmac
+snowy_road#
+alley#
+roadside#
+building#court building street_building city_building skyscraper apartment_building
+wall#
+track#train_track track subway sub_way steel_track train_yard railroad rail_road rail_road_track railway rail_way
+rail#
+fence#enclosure fence metal_fence chain_link_fence fencing
+slope#
+ramp#
+sign#street_sign streetsign sign stop_sign stopsign traffic_sign trafficsign road_sign way_sign parking_sign
+street_name#
+street_post#
+sidewalk#pavement sidewalk side_walk walkway crosswalk city_sidewalk cross_walk
+tennis_court#tennis_court tenniscourt
+tower#church_tower tower
+clock_tower#big_ben clock_tower brick_clock_tower ben
+bell_tower#
+city#london city city_area
+airport#airfield air_port airport air_field
+traffic_light#traffic_light traffic_signal stop_light trafficlight
+station#train_station station platform train_platform subway_station
+runway#run_way runway
+parking_lot#parking_bay parking_lot parking_space
+parking_garage#
+bridge#
+intersection#city_intersection intersection street_intersection
+zoo#
+traffic#
+baseball_field#baseball_diamond baseball_field baseballfield
+yard#backyard yard
+garden#
+courtyard#
+town#
+dock#pier dock marina
+market#farmer_market market market_area outdoor_market
+sale#
+post#
+statue#sculpture statue figurine
+church#cathedral church
+wire#power_line wire powerline
+tent#
+cage#
+pool#
+harbor#
+country#countryside country country_side
+village#
+gate#
+doorway#
+barn#
+roof#
+garage#
+stadium#soccer_field stadium soccerfield
+race_track#
+tile#
+brick#
+farm#
+stage#
+square#plaza square town_square townsquare city_square citysquare
+hole#
+skateboard_park#skatepark skateboard_park
+half_pipe#halfpipe half_pipe skateboard_ramp
+lighthouse#
+cement#
+tunnel#
+fountain#
+hotel#
+frame#
+arrow#
+mud#
+steeple#
+engine#
+hydrant#fire_hydrant hydrant firehydrant
+arena#
+podium#
+castle#
+gas_station#
+feeder#trough feeder
+propeller#
+entertainment_center#
+hangar#
+message#
+booth#
+exhibit#
+overpass#
+pillar#
+clay_court#
+grass_court#
+hood#
+boardwalk#
+monument#
+house#hut cabin house stone_building lodge
+factory#
+streetlight#lamp_post streetlight street_lamp street_light
+bus_station#
+school#
+telephone_pole#
+warehouse#
+dugout#
+construction_site#
+traffic_cone#
+playground#
+entrance#
+hospital#
+airport_terminal#
+street_curb#
+storefront#
+escalator#
+corner#
+flag#
+graffiti#
+trash#garbage trash junk
+smoke#
+rope#cord rope
+wheel#
+stick#
+machine#
+parade#
+stoplight#
+horn#
+pipe#
+street_pole#metal_pole metalpole street_pole streetpole
+tag#
+fire#
+language#
+letter#
+chain#
+poster#
+billboard#
+banner#
+shadow#
+tail#
+balloon#
+car_window#car_window carwindow
+ladder#
+conversation#
+tire#
+plastic#
+parachute#
+card#
+ice#
+hose#
+figure#
+faucet#
+bell#
+steam#
+instrument#
+caption#
+gun#
+pin#
+bird_feeder#bird_feeder birdfeeder
+wrapper#
+plastic_bag#
+artwork#
+conveyor_belt#
+menu#
+christmas#
+picnic#
+movie#
+meeting#
+festival#
+wedding#
+cargo#
+handle#
+hand_rail#railing hand_rail
+activity#
+car_mirror#view_mirror car_mirror carmirror
+debris#
+celebration#
+clutter#
+swimming_pool#swimming_pool swimmingpool
+board#
+wood#
+sand#
+dirt#
+log#
+stone#
+metal#
+sail#
+button#
+grass#
+water#
+sky#cloudy_blue_sky sky
+beach#beach_area beach
+bay#
+shoreline#coast shoreline
+snow#
+wave#surf wave
+ocean#sea ocean
+park#city_park park
+hill#hillside hill
+mountain#mountain_range mountain mountain_side mountain_slope mountainside
+river#stream river creek canal waterway water_way
+rock#
+boulder#
+dark#
+night#night night_time evening
+lake#
+forest#jungle forest
+rain#
+bush#shrub bush shrubbery
+sun#
+cloud#
+desert#
+sunset#sun_set sunset
+ledge#
+shade#
+wild#wilderness wild
+outdoors#
+land#ground land plain field
+dirt_ground#dry_field dirt_ground dirtground
+island#
+cliff#
+patio#
+landscape#
+dusk#
+sunlight#sunshine sunlight daylight
+midair#mid_air midair
+frosting#
+resort#
+valley#
+rock_wall#
+savannah#savanna savannah
+grassy_plain#grass_area grassy_plain grassland
+rainbow#
+gravel#
+star#
+fog#
+skyline#skyline city_skyline
+waterfall#
+terrain#
+water_hole#pond water_hole waterhole
+afternoon#
+outfield#
+snowy_ground#
+rock_formation#
+storm#
+horizon#
+winter#
+downhill#downhill down_hill
+hay#
+mound#
+bank#
+bathroom#bath_room bathroom bathroom_scene rest_room restroom hotel_bathroom home_bathroom
+toilet#bathroom_toilet toilet
+kitchen#home_kitchen kitchen restaurant_kitchen kitchen_area
+room#apartment room family_room home cubicle
+residence#
+living_room#living_room_area living_room living_room_scene living_area livingroom
+lobby#
+den#
+closet#
+sink#
+window#glass_window window
+windowsill#
+counter#
+floor#tile_floor floor hardwood_floor flooring wood_flooring wood_floor bathroom_floor
+mirror#sink_mirror mirror
+picture#
+vase#glass_vase vase flower_vase flowervase vas glass_vas flower_vas
+glass#
+light#
+door#bathroom_door door
+bedroom#bed_room bedroom
+stove#burner stove
+fire_place#fire_place fireplace
+photo#photograph photo
+meal#
+restaurant#
+store#shop store grocery_store buffet
+shower#
+image#
+family#
+stair#staircase stair
+rug#mat rug
+carpet#
+office#home_office office office_cubicle
+curtain#
+ceiling#overhead ceiling
+painting#
+grill#
+dinner#
+dresser#
+cover#
+cloth#
+party#birthday_party party birthdayparty
+lunch#
+shower_curtain#
+birthday#
+dining_room#dining_room diningroom
+museum#
+hallway#
+porch#
+breakfast#
+art#
+bar#watering_hole bar
+balcony#
+cafe#
+bakery#
+decor#
+library#
+classroom#
+bathroom_counter#bathroom_vanity bathroom_counter
+commode#
+mall#
+store_window#
+bathroom_wall#bathroom_stall bathroom_wall
+compartment#
+wallpaper#
+furnishing#
+table#dining_room_table table restaurant_table glass_table outdoor_table round_table table_top tabletop
+desk#office_desk desk
+bed#twin_bed bed
+bench#wood_bench bench wooden_bench metal_bench
+chair#leather_chair chair
+couch#sofa couch leather_couch
+furniture#
+shelf#
+seat#car_seat seat
+book_shelf#bookcase book_shelf book_case bookshelf
+rack#
+case#
+cabinet#cabinet cupboard
+stool#
+beach_chair#
+crib#
+headboard#
+office_chair#
+nightstand#night_stand nightstand
+lounge_chair#
+glass_case#
+hospital_bed#
+towel_rack#
+dog_bed#
+plate#dish plate dinner_plate glass_plate food_dish platter home_plate
+umbrella#parasol umbrella
+clock#grandfather_clock clock wall_clock wallclock alarm_clock alarmclock analog_clock
+bowl#
+suitcase#luggage suitcase baggage suit_case
+book#
+bag#
+box#
+tub#
+scissors#
+cup#coffee_mug cup
+knife#
+tray#
+blanket#
+bedspread#
+fork#
+paper#
+pillow#
+cushion#
+toothbrush#tooth_brush toothbrush
+pan#metal_pan pan frying_pan skillet
+pot#
+candle#lit_candle candle
+bottle#water_bottle waterbottle wine_bottle winebottle bottle beer_bottle beerbottle glass_bottle glassbottle
+towel#
+basket#
+lamp#
+appliance#
+pen#
+wine_glass#
+spoon#
+container#
+sheet#
+brush#
+sticker#
+purse#handbag purse
+lid#
+napkin#
+utensil#utensil cooking_utensil eating_utensil
+newspaper#
+toilet_paper#
+bucket#
+barrel#
+mattress#
+liquid#
+note#
+jar#
+fixture#
+magazine#
+crate#
+tablet#
+treat#
+cardboard_box#
+toothpaste#
+silverware#
+canopy#
+steel_appliance#
+fabric#
+tablecloth#table_cloth tablecloth
+chopstick#
+glass_bowl#
+package#
+holder#
+quilt#
+pizza_pan#
+spatula#
+key#
+cutting_board#
+kit#
+foil#
+notebook#
+order#
+beach_umbrella#
+pad#
+saucer#
+office_supply#
+pizza_cutter#
+briefcase#
+toiletry#
+makeup#
+paper_towel#
+plastic_container#
+sword#
+flower_pot#
+hook#
+money#
+pencil#
+chandelier#
+hanger#
+tape#
+tissue#
+linen#
+paper_bag#
+soap#
+map#
+picture_frame#
+necklace#
+lunch_box#
+wok#
+place_mat#
+food#breakfast_food food plate_food breakfastfood
+pizza#pizza pizza_pie pizzapie homemade_pizza pizza_slice pepperoni_pizza half_pizza
+cake#cupcake cake birthday_cake birthdaycake sheet_cake sheetcake cheesecake cheese_cake brownie
+sandwich#sub_sandwich sandwich half_sandwich
+donut#doughnut donut chocolate_donut
+drink#juice drink beverage orange_juice syrup
+alcohol#wine alcohol beer
+meat#beef meat
+bacon#
+steak#
+fry#
+bread#
+coffee#
+cheese#
+salad#
+hotdog#hot_dog hotdog hotdog_bun dog_bun chili_dog
+pastry#dessert pastry
+muffin#
+sauce#
+rice#
+noodle#
+egg#
+soup#
+gravy#
+chocolate#
+pepper#
+chip#
+pickle#
+pie#
+mustard#
+sausage#
+milk#
+snack#
+cooky#cookie cooky
+cracker#
+waffle#
+bagel#
+biscuit#
+burger#hamburger burger
+ice_cream#
+pepperoni#
+cigarette#
+tea#
+turkey#
+sugar#
+cereal#
+candy#
+ham#
+butter#
+icing#
+peanut_butter#
+coke#cocacola coca_cola coke
+dough#
+spice#
+crust#
+sushi#
+coleslaw#
+yogurt#
+wrap#
+banana#ripe_banana banana
+fruit#
+orange#
+apple#
+carrot#
+tomato#
+onion#
+vegetable#
+broccoli#
+potato#
+strawberry#
+bean#
+mushroom#
+lettuce#
+lemon#
+olive#
+grape#
+nut#
+corn#
+orange_slice#
+spinach#
+banana_peel#banana_peel bananapeel
+pear#
+cucumber#
+cherry#
+pineapple#pine_apple pineapple
+tangerine#
+pumpkin#
+cauliflower#
+pea#
+brocolli#
+celery#
+chili#
+cabbage#
+blueberry#
+berry#
+clothes#
+shirt#pink_shirt shirt dress_shirt orange_shirt
+tie#necktie tie
+bow#bow_tie bow bowtie
+hat#cowboy_hat hat
+santa_hat#
+coat#jacket coat jersey hoodie sweatshirt leather_jacket blue_jacket blue_jackets
+helmet#
+shoe#sneaker shoe tennis_shoe boot tennisshoe
+dress#
+skirt#
+shorts#
+uniform#
+sunglass#
+glove#
+baseball_glove#baseball_glove baseball_mitt mitt baseballglove
+leash#
+jean#
+wetsuit#wet_suit wetsuit wetsuits
+cap#baseball_cap cap baseballcap
+vest#
+tank_top#
+apron#
+tshirt#t_shirt tshirt
+bikini#
+scarf#
+ribbon#
+mask#
+goggles#
+collar#
+suit#suit business_suit
+snow_suit#
+swimming_suit#swimming_suit bathing_suit swimmingsuit bathingsuit swimsuit
+harness#
+attire#business_attire attire
+robe#
+heel#
+glasses#eye_glass glasses eyeglass
+sock#
+saddle#
+tennis_outfit#
+life_jacket#
+sandal#
+pajama#
+computer#laptop computer lap_top laptop_computer
+tablet_computer#
+desk_computer#desktop_computer desk_computer computer_equipment desk_top desktop
+tv#
+refrigerator#refrigerator_freezer refrigerator freezer
+phone#cell_phone cellphone phone flip_phone smartphone smart_phone iphone cel_phone
+telephone#
+headphone#
+microphone#
+camera#
+keyboard#
+display#monitor display screen television_screen television_set screen_television tv_screen
+video_game#video_game videogame
+controller#wii controller remote_control remotecontrol wii_game_controller video_game_controller wii_remote video_game_remote
+oven#microwave oven microwave_oven toaster_oven
+parking_meter#
+mouse#
+device#
+blender#mixer blender
+fan#ceiling_fan fan
+watch#
+toaster#
+accessory#
+dishwasher#washer dishwasher
+bin#
+refrigerator_door#
+disk#
+printer#
+hair_dryer#blow_dryer hair_dryer
+coffee_maker#
+radio#
+skateboard#
+surfboard#surf_board surfboard surf_boarder surfboarder
+kite#
+frisbee#disc frisbee frisbe orange_frisbee frizbee
+ball#
+ski#skiis ski
+bat#
+tennis_racket#tennis_racket tennisracket
+tennis_ball#tennis_ball tennisball
+baseball#baseball_game baseballgame baseball softball soft_ball base_ball
+game#
+match#
+snowboard#snow_board snowboard
+tennis#tennis_match tennismatch tennis tennis_game tennisgame
+racket#
+baseball_bat#
+soccer#soccer_game soccer soccergame
+soccer_ball#
+toy#
+doll#
+guitar#
+basketball#basketball basket_ball
+piano#
+water_ski#wake_board water_ski waterski
+home_base#
+boogie_board#
+sport#
+toy_train#
+batting_cage#
+goal#
+football#
+golf#
+stuffed_toy#
+jet_ski#
+circus#
+volleyball#
+nap#
+stripe#
+obstacle#
+barrier#
+stance#
+material#
+speed#
+unknown#
+NULL#
